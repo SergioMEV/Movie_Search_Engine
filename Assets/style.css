@@ -1,0 +1,43 @@
+
+h1, h4, h5{
+    color: #D3E0EA;
+    font-family:'Courier New', Courier, monospace;
+    text-emphasis: True;
+}
+
+h2, h3 {
+    color: #F6F5F5;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+p {
+    color: white;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.search {
+    width: 75%;
+    margin: 2%;
+}
+
+.accordionItem {
+    width: 100%;
+}
+
+h6 {
+    color:#1687A7;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.table {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 70vh;
+}
+
