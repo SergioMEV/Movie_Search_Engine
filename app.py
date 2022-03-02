@@ -1,7 +1,6 @@
 # IMDB Dashboard with Dash
 
 ## Libraries
-import enum
 import dash
 import pickle
 import dash.dash_table as dt
