@@ -14,7 +14,7 @@ import pandas as pd
 with open('data/movies.pkl', 'rb') as f:
     movies = pickle.load(f)
 
-
+movies = movies[0:100000]
 
 ## App
 
